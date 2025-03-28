@@ -29,3 +29,6 @@ do D:/study/KOMP_SHEM/Stim.do
 run
 run -all
 # Break key hit 
+do D:/study/KOMP_SHEM/Stim.do
+run -all
+# Break key hit 
