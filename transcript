@@ -1,0 +1,31 @@
+# Reading C:/altera/91/modelsim_ase/tcl/vsim/pref.tcl 
+# Loading project my_project
+# Error opening D:/study/><? AE5</half_add_lab1.v
+# Path name 'D:/study/><? AE5</half_add_lab1.v' doesn't exist.
+# Compile of half_add_lab1.v was successful.
+vsim -t ps work.half_add
+# vsim -t ps work.half_add 
+# Loading work.half_add
+add wave sim:/half_add/*
+do D:/study/KOMP_SHEM/Stim.do
+do D:/study/KOMP_SHEM/Stim.do
+do D:/study/KOMP_SHEM/Stim.do
+run -all
+do D:/study/KOMP_SHEM/Stim.do
+run -all
+# Break key hit 
+add wave sim:/half_add/*
+run -all
+# Break key hit 
+run -all
+run -all
+run -all
+run -all
+# Break key hit 
+restart -f
+run
+# Break key hit 
+do D:/study/KOMP_SHEM/Stim.do
+run
+run -all
+# Break key hit 
