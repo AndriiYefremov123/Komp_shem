@@ -1,0 +1,3 @@
+force x3 0 0ns, 1 200ns;
+force x2 0 0ns, 1 100ns, 0 200ns, 1 300ns;
+force x1 0 0ns, 1 100ns, 0 200ns, 1 300ns;

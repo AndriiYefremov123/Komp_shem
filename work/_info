@@ -3,18 +3,59 @@ K3
 13
 cModel Technology
 Z0 dC:\altera\91\modelsim_ase\examples
-vhalf_add
-!s100 nZ8_8Sa90c<=_T77UV^D^2
-IDKHXATF>e_WfmnX0T9kkD2
-VT3N=:RY>F4EPXIhhmNPK81
-w1743182062
-8D:/study/KOMP_SHEM/half_add_lab1.v
-FD:/study/KOMP_SHEM/half_add_lab1.v
-L0 6
-OV;L;6.5b;42
+vEx2_Andrii_Yefremov_NOR_OR
+!i10b 1
+!s100 M6[`GD[PA>ACNKIBTb=>V1
+IQAnWodeBJ@J^[CLPAS5:T3
+Z1 V0VJTb;md<`mKKnBe01=hd0
+Z2 dC:\altera\91\modelsim_ase\examples
+w1744218457
+Z3 8C:/altera/91/modelsim_ase/examples/Ex2_Andrii_Yefremov_NOR_OR.vhd
+Z4 FC:/altera/91/modelsim_ase/examples/Ex2_Andrii_Yefremov_NOR_OR.vhd
+L0 1
+Z5 OV;L;10.1d;51
 r1
 !s85 0
 31
+!s108 1744218461.813000
+!s107 C:/altera/91/modelsim_ase/examples/Ex2_Andrii_Yefremov_NOR_OR.vhd|
+Z6 !s90 -reportprogress|300|-work|work|C:/altera/91/modelsim_ase/examples/Ex2_Andrii_Yefremov_NOR_OR.vhd|
 !s101 -O0
-!s102 -nocovercells
-o-work work -nocovercells -O0
+Z7 o-work work -O0
+Z8 n@ex2_@andrii_@yefremov_@n@o@r_@o@r
+vEx2_NOR_OR
+Z9 II5?PohKA43bBf6cJWZTO11
+Z10 VgG?d^0134LcaAaNm6ZZ]i3
+R2
+Z11 w1744216862
+R3
+R4
+L0 1
+R5
+r1
+31
+R6
+R7
+Z12 n@ex2_@n@o@r_@o@r
+Z13 !s100 gTV0mY^1;n`BeQB`<z8<Q1
+Z14 !s108 1744216869.350000
+Z15 !s107 C:/altera/91/modelsim_ase/examples/Ex2_Andrii_Yefremov_NOR_OR.vhd|
+!i10b 1
+!s85 0
+!s101 -O0
+vhalf_add
+Z16 IDKHXATF>e_WfmnX0T9kkD2
+Z17 VT3N=:RY>F4EPXIhhmNPK81
+Z18 w1743182062
+Z19 8D:/study/KOMP_SHEM/half_add_lab1.v
+Z20 FD:/study/KOMP_SHEM/half_add_lab1.v
+L0 6
+Z21 OV;L;6.5b;42
+r1
+31
+Z22 o-work work -nocovercells -O0
+R2
+Z23 !s100 nZ8_8Sa90c<=_T77UV^D^2
+Z24 !s102 -nocovercells
+!s85 0
+!s101 -O0
